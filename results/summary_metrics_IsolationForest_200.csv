@@ -1,0 +1,2 @@
+model_type,n_estimators,contamination,avg_anomaly_score,avg_trust_score,normal_trust_score,wired_congestion_trust_score,software_bug_satellite_trust_score,satellite_handoff_trust_score,wired_config_failure_trust_score,trust_gap
+IsolationForest,200,0.1,0.035079671214459,0.8184563562075731,0.8553686236803455,0.8069472469803651,0.6184300918918105,0.38050455429258007,0.3494336832138544,0.5059349404664911
